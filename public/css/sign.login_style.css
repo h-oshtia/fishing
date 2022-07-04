@@ -1,0 +1,83 @@
+#headlogo {
+    font-size: 15px;
+    color: rgb(54, 216, 238);
+    font-weight: bold;
+    line-height: 40px;
+    margin: 0 5px 0 20px;
+}
+
+#titlelogo {
+    font-size: 40px;
+    color: rgb(54, 216, 238);
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.login img, .signup img {
+    vertical-align: middle;
+}
+
+#login_content {
+    text-align: left;
+    font-weight: bold;
+}
+
+#btn {
+    width: 380px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 151, 246);
+    color: white;
+    cursor: pointer;
+}
+
+#rbtn {
+    width: 290px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 151, 246);
+    color: white;
+    cursor: pointer;
+}
+
+#bbtn {
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(246, 100, 107);
+    color: white;
+    cursor: pointer;
+}
+
+#btn:hover {
+    opacity: .8;
+}
+
+.login a {
+    color: white;
+    text-decoration: none;
+}
+
+.signup a {
+    color: white;
+    text-decoration: none;
+}
+
+#loginitem, #signupitem {
+    width: 360px;
+    height: 40px;
+}
+
+#login_mail, #login_pass, #signup_name,
+#signup_mail, #signup_pass {
+    font-size: 13px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#logmg {
+    margin-bottom: 50px;
+}
+

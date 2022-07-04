@@ -1,0 +1,103 @@
+#headlogo {
+    font-size: 15px;
+    color: rgb(54, 216, 238);
+    font-weight: bold;
+    line-height: 40px;
+    margin: 0 5px 0 20px;
+}
+
+#titlelogo {
+    font-size: 40px;
+    color: rgb(54, 216, 238);
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.contact_post img  {
+    vertical-align: middle;
+}
+
+.contact_title p2{
+    font-size: 11px;
+}
+
+.pre-main {
+    font-size: 11px;
+}
+
+#post_content {
+    text-align: left;
+    font-weight: bold;
+}
+
+#rbtn {
+    width: 290px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(100, 151, 246);
+    color: white;
+    cursor: pointer;
+}
+
+#bbtn {
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(246, 100, 107);
+    color: white;
+    cursor: pointer;
+}
+
+#btn:hover {
+    opacity: .8;
+}
+
+
+#contactitem {
+    width: 360px;
+    height: 40px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+#contactitem_conttents {
+    width: 360px;
+    height: 150px;   
+    text-align: left;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.cofitem {
+    border-top: 1px solid white;
+}
+
+
+#name, #subject, #contents {
+    font-size: 13px;
+    margin-bottom: 0;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+#logmgbtn {
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+#logmg textarea {
+    height: 150px;
+    resize: none;
+    margin: 0;
+}
+.red { 
+    color: red;
+}
+
+.error {
+    font-size: 13px;
+    color: red;
+}
+
