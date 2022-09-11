@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <div class="header">
+    <div class="heade">
        <div class="headerlog">
            <p id="headlogo">Fishing</p>
            <img src="/img/tsurizao_13222.png" width="70px" height="70px">
